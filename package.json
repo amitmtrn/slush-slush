@@ -1,8 +1,12 @@
 {
   "name": "slush-slush",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "slush package creator of slush packages",
   "main": "slushfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitmtrn/slush-slush"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
