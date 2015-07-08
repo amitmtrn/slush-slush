@@ -5,6 +5,20 @@
 
 [![NPM stats](https://nodei.co/npm/slush-slush.svg?downloadRank=true&downloads=true)](https://www.npmjs.org/package/slush-slush)
 
-slush package that create slush packages
+## slush package that create slush packages
+
+### installation
+```
+npm install -g slush
+```
+
+```
+npm install -g slush-slush
+```
+
+### scaffold slush package
+```
+slush slush
+```
 
 > if you don't understand the concept you can check out the simplest example in this [simple example](https://github.com/amitmtrn/slush-starter-kit/tree/a6c8af08f2a5446a837196454a07e8d10f04d31c)
