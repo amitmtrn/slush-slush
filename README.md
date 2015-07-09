@@ -1,5 +1,7 @@
 # slush slush
 
+[![Join the chat at https://gitter.im/amitmtrn/slush-slush](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amitmtrn/slush-slush?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM version](https://img.shields.io/npm/v/slush-slush.svg)](https://www.npmjs.com/package/slush-slush)
 [![Download stats](https://img.shields.io/npm/dm/slush-slush.svg)](https://www.npmjs.com/package/slush-slush)
 
