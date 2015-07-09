@@ -1,5 +1,7 @@
 # slush slush
 
+[![Gitter](https://badges.gitter.im/amitmtrn/slush-slush.svg)](https://gitter.im/amitmtrn/slush-slush)
+
 [![NPM version](https://img.shields.io/npm/v/slush-slush.svg)](https://www.npmjs.com/package/slush-slush)
 [![Download stats](https://img.shields.io/npm/dm/slush-slush.svg)](https://www.npmjs.com/package/slush-slush)
 
