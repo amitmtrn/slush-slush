@@ -1,0 +1,5 @@
+[
+  {"type": "input", "name": "name", "message": "What do you want to name your app?"},
+  {"type": "input", "name": "description", "message": "Write a short description about your app?"},
+  {"type": "input", "name": "author", "message": "Who is the author of this app?"}
+]

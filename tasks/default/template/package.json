@@ -10,12 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.9.0",
+    "gulp-install": "^0.4.0",
     "gulp-template": "^3.0.0",
     "inquirer": "^0.8.5",
     "path": "^0.11.14"
   },
   "keywords": [
-  "slushgenerator"
+  "slushgenerator",
+  "slush"
   ],
   "preferGlobal": "true"
 }
